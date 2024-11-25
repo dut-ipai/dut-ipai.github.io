@@ -25,14 +25,14 @@
 
 
 .navbar-inverse {
-  background-color: #243b2b;
+  background-color: #253d7a;
  }
 
 
 .navbar-inverse .navbar-nav > .active > a,
 .navbar-inverse .navbar-nav > .active > a:hover,
 .navbar-inverse .navbar-nav > .active > a:focus {
-  color: #243b2b;
+  color: #253d7a;
  background-color: #ffffff;
 }
 
