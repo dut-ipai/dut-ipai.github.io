@@ -1,3 +1,3 @@
 # dut-ipai.github.io
 
-Forked from marswhu.github.io
+Thanks for marswhu.github.io's template.
